@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there!  I'm Gunjan
 
-<!--
-**gunjan01-source/gunjan01-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student
 
-Here are some ideas to get you started:
+Aspiring Data scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+-  Currently learning Python, SQL, Power BI, Tableau & MongoDB
+-  Exploring data analysis and machine learning
+-  Building projects to strengthen my skills
+
+##  Tech Stack
+- Python
+- SQL
+- NumPy
+- Pandas
+- Matplotlib
+- Power BI
+- Tableau
+- MongoDB
+
+##  2026 Goals
+- Build impactful data projects
+- Learn Machine Learning
+- Land a Data science internship
+
+ 
+ Thanks for visiting my GitHub!
