@@ -31,7 +31,7 @@
 ##  2026 Goals
 
 - Build impactful Data Science and Analytics projects
-- Earn industry-recognized certifications (Power BI, AWS)
+- Earn industry-recognized certifications (AWS , Deep Learning)
 - Learn Machine Learning and Deep Learning
 - Land a Data Science Internship
 
