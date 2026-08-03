@@ -15,12 +15,13 @@
 -  **[Retail Sales Performance Analysis](https://github.com/gunjan01-source/superstore-analysis)**
   End-to-end analysis of retail sales data — Python/Pandas for cleaning & EDA, MySQL for querying, and a 2-page interactive Power BI dashboard with KPI cards, conditional formatting, and an AI Key Influencers visual.
 
+
 -  **Customer Churn Prediction** *(in progress)*
   Predicting customer churn using logistic regression on the Telco Customer Churn dataset — includes EDA, feature engineering, and model evaluation.
 
 ##  Tech Stack
 
-**Data & Analytics:** Python, SQL, NumPy, Pandas, Matplotlib, Power BI, Tableau, MongoDB, Seaborn
+**Data & Analytics:** Python, SQL, NumPy, Pandas, Matplotlib, Power BI, Tableau, MongoDB, Seaborn, Machine-Learning ,flask
 
 **Also comfortable with:** HTML, CSS
 
