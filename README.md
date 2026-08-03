@@ -21,7 +21,7 @@
 
 ##  Tech Stack
 
-**Data & Analytics:** Python, SQL, NumPy, Pandas, Matplotlib, Power BI, Tableau, MongoDB, Seaborn, Machine-Learning ,flask
+**Data & Analytics:** Python, SQL, NumPy, Pandas, Matplotlib, Power BI, Tableau, MongoDB, Seaborn, Machine-Learning , flask
 
 **Also comfortable with:** HTML, CSS
 
