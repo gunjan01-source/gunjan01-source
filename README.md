@@ -10,15 +10,19 @@
 -  Building projects to strengthen my analytical and problem-solving skills
 -  Deepening my ML skills through hands-on projects, including a customer churn prediction model
 
-##  Featured Projects
+## Featured Projects
 
--  **[Retail Sales Performance Analysis](https://github.com/gunjan01-source/superstore-analysis)**
-  End-to-end analysis of retail sales data — Python/Pandas for cleaning & EDA, MySQL for querying, and a 2-page interactive Power BI dashboard with KPI cards, conditional formatting, and an AI Key Influencers visual.
+- **[RideFare AI Pricing App](https://github.com/gunjan01-source/RideFare-AI-pricing-app)**
+  
+  End-to-end machine learning web application that predicts ride fares using **Random Forest Regression**. Includes synthetic data generation, EDA, feature engineering, model comparison, and a responsive Flask interface built with HTML, CSS, and JavaScript.
 
+- **[Retail Sales Performance Analysis](https://github.com/gunjan01-source/superstore-analysis)**
+  
+  End-to-end retail sales analysis using Python/Pandas for cleaning & EDA, MySQL for querying, and an interactive Power BI dashboard featuring KPI cards, conditional formatting, and AI Key Influencers.
 
--  **Customer Churn Prediction** *(in progress)*
-  Predicting customer churn using logistic regression on the Telco Customer Churn dataset — includes EDA, feature engineering, and model evaluation.
-
+- **Customer Churn Prediction** *(In Progress)*
+  
+  Predicting customer churn using machine learning on the Telco Customer Churn dataset. Includes data preprocessing, feature engineering, model evaluation, and performance comparison.
 ##  Tech Stack
 
 **Data & Analytics:** Python, SQL, NumPy, Pandas, Matplotlib, Power BI, Tableau, MongoDB, Seaborn, Machine-Learning , flask
