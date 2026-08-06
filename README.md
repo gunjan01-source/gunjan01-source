@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gunjan
+# Hi there! 👋 I'm Gurpreet
 
  BCA Student
  Aspiring Data Scientist
