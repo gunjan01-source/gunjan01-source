@@ -20,7 +20,7 @@
   
   End-to-end retail sales analysis using Python/Pandas for cleaning & EDA, MySQL for querying, and an interactive Power BI dashboard featuring KPI cards, conditional formatting, and AI Key Influencers.
 
-- **Customer Churn Prediction** 
+- [**Customer Churn Prediction** ](https://github.com/gunjan01-source/telco-churn-prediction)
   
   Predicting customer churn using machine learning on the Telco Customer Churn dataset. Includes data preprocessing, feature engineering, model evaluation, and performance comparison.
 ##  Tech Stack
